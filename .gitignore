@@ -1,0 +1,11 @@
+node_modules
+dist
+.vscode
+sample
+**/.DS_Store
+tmp
+package-lock.json
+.env
+.env.test
+lib
+!src/lib
